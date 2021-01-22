@@ -30,9 +30,10 @@
     </header>
     
     <div id="hero-image1">
-        <p><center>We are students of MCA first year from National Institute of Technology Karnataka,Surathkal.We work as a team of two people.</center></p><br>
+        <p><center>We are students of MCA first year from National Institute of Technology, Tiruchirappalli. We work as a team of two people.</center></p><br>
 		<p><center>Here we provide information about various types of rooms(single,shared,for family) available on rent in Delhi.This
 		will help people seeking room in Delhi and so by serching rooms online people can git rid of heavy brokerage.</center></p>
+	    
 		
     </div>
 
